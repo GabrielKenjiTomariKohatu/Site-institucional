@@ -3,61 +3,58 @@
     padding: 100px 0;
     background-size: cover;
     height: 95vh;
-  }
-  
-  .banner .container {
+}
+
+.banner .container {
     height: 100%;
     align-items: center;
     justify-content: center;
-  }
-  
-  .caixa-formulario {
+}
+.caixa-formulario {
     background-color: #e5e5e5;
-    padding: 50px 100px;
+    padding:50px 100px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-  }
-  
-  .caixa-formulario h2 {
-    color: palevioletred;
-    margin-bottom: 20px;
-  }
-  
-  .campo {
+
+}
+.caixa-formulario h2 {
+    color:palevioletred;
+    margin-bottom: 20 px;
+}
+.campo {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-  }
-  
-  .campo label {
+   
+}
+.campo label {
     color: palevioletred;
     font-size: 20px;
     padding: 10px 0;
-  }
-  
-  .campo input {
-    padding: 10px;
+
+}.campo input {
+    padding: 15px 33px;
     border-radius: 10px;
-    border: 2px solid #32b9cd;
-  }
-  
-  .caixa-formulario button {
+    border: 2px solid #32B9CD;
+}
+
+.caixa-formulario button{
     margin-top: 20px;
     width: 120px;
     color: #fff;
-    background-color: #e6005a;
-    padding: 10px 20px;
+    background-color: #e6005e;
+    padding:20px 20px;
     font-weight: bold;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     box-shadow: 8px -6px 22px 7px rgba(0, 0, 0, 0.25);
-  }
-  
-  .caixa-formulario button:hover {
-    opacity: 0.8;
-  }
+}
+
+.caixa-formulario button:hover {
+  opacity: 0.8;
+}
